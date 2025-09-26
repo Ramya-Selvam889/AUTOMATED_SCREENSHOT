@@ -1,0 +1,3 @@
+@echo off
+python "C:\Users\S.RAMYA\OneDrive\Desktop\AutoScreenshotTool\screenshot_tool.py"
+pause
